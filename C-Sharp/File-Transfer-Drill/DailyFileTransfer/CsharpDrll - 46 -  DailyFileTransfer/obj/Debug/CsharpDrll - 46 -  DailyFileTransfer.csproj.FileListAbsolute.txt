@@ -1,0 +1,6 @@
+C:\C#Programs\CsharpDrll - 46 -  DailyFileTransfer\CsharpDrll - 46 -  DailyFileTransfer\bin\Debug\CsharpDrll - 46 -  DailyFileTransfer.exe.config
+C:\C#Programs\CsharpDrll - 46 -  DailyFileTransfer\CsharpDrll - 46 -  DailyFileTransfer\obj\Debug\CsharpDrll - 46 -  DailyFileTransfer.csprojResolveAssemblyReference.cache
+C:\C#Programs\CsharpDrll - 46 -  DailyFileTransfer\CsharpDrll - 46 -  DailyFileTransfer\bin\Debug\CsharpDrll - 46 -  DailyFileTransfer.exe
+C:\C#Programs\CsharpDrll - 46 -  DailyFileTransfer\CsharpDrll - 46 -  DailyFileTransfer\bin\Debug\CsharpDrll - 46 -  DailyFileTransfer.pdb
+C:\C#Programs\CsharpDrll - 46 -  DailyFileTransfer\CsharpDrll - 46 -  DailyFileTransfer\obj\Debug\CsharpDrll - 46 -  DailyFileTransfer.exe
+C:\C#Programs\CsharpDrll - 46 -  DailyFileTransfer\CsharpDrll - 46 -  DailyFileTransfer\obj\Debug\CsharpDrll - 46 -  DailyFileTransfer.pdb
